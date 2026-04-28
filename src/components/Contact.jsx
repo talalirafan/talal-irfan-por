@@ -57,7 +57,7 @@ const Contact = () => {
                 <div>
                   <div className="contact-label">GitHub</div>
                   <div className="contact-value">
-                    <a href="https://github.com" target="_blank" rel="noopener noreferrer">
+                    <a href="https://github.com/talalirafan" target="_blank" rel="noopener noreferrer">
                       github.com/talalirfan
                     </a>
                   </div>
