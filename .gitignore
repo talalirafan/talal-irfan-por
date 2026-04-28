@@ -22,3 +22,8 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Default Vite assets
+src/assets/hero.png
+src/assets/react.svg
+src/assets/vite.svg
